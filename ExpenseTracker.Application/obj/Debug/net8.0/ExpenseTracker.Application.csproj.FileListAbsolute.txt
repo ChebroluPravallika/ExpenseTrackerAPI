@@ -1,0 +1,15 @@
+C:\Users\pravallika.chebrolu\source\repos\ExpenseTracker\ExpenseTracker.Application\bin\Debug\net8.0\ExpenseTracker.Application.deps.json
+C:\Users\pravallika.chebrolu\source\repos\ExpenseTracker\ExpenseTracker.Application\bin\Debug\net8.0\ExpenseTracker.Application.dll
+C:\Users\pravallika.chebrolu\source\repos\ExpenseTracker\ExpenseTracker.Application\bin\Debug\net8.0\ExpenseTracker.Application.pdb
+C:\Users\pravallika.chebrolu\source\repos\ExpenseTracker\ExpenseTracker.Application\obj\Debug\net8.0\ExpenseTracker.Application.csproj.AssemblyReference.cache
+C:\Users\pravallika.chebrolu\source\repos\ExpenseTracker\ExpenseTracker.Application\obj\Debug\net8.0\ExpenseTracker.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pravallika.chebrolu\source\repos\ExpenseTracker\ExpenseTracker.Application\obj\Debug\net8.0\ExpenseTracker.Application.AssemblyInfoInputs.cache
+C:\Users\pravallika.chebrolu\source\repos\ExpenseTracker\ExpenseTracker.Application\obj\Debug\net8.0\ExpenseTracker.Application.AssemblyInfo.cs
+C:\Users\pravallika.chebrolu\source\repos\ExpenseTracker\ExpenseTracker.Application\obj\Debug\net8.0\ExpenseTracker.Application.csproj.CoreCompileInputs.cache
+C:\Users\pravallika.chebrolu\source\repos\ExpenseTracker\ExpenseTracker.Application\obj\Debug\net8.0\ExpenseT.086D7044.Up2Date
+C:\Users\pravallika.chebrolu\source\repos\ExpenseTracker\ExpenseTracker.Application\obj\Debug\net8.0\ExpenseTracker.Application.dll
+C:\Users\pravallika.chebrolu\source\repos\ExpenseTracker\ExpenseTracker.Application\obj\Debug\net8.0\refint\ExpenseTracker.Application.dll
+C:\Users\pravallika.chebrolu\source\repos\ExpenseTracker\ExpenseTracker.Application\obj\Debug\net8.0\ExpenseTracker.Application.pdb
+C:\Users\pravallika.chebrolu\source\repos\ExpenseTracker\ExpenseTracker.Application\obj\Debug\net8.0\ref\ExpenseTracker.Application.dll
+C:\Users\pravallika.chebrolu\source\repos\ExpenseTracker\ExpenseTracker.Application\bin\Debug\net8.0\ExpenseTracker.Infrastructure.dll
+C:\Users\pravallika.chebrolu\source\repos\ExpenseTracker\ExpenseTracker.Application\bin\Debug\net8.0\ExpenseTracker.Infrastructure.pdb

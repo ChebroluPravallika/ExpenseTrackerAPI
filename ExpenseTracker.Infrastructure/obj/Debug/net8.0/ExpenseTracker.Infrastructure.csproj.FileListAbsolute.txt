@@ -1,0 +1,14 @@
+C:\Users\pravallika.chebrolu\source\repos\ExpenseTracker\ExpenseTracker.Infrastructure\bin\Debug\net8.0\ExpenseTracker.Infrastructure.deps.json
+C:\Users\pravallika.chebrolu\source\repos\ExpenseTracker\ExpenseTracker.Infrastructure\bin\Debug\net8.0\ExpenseTracker.Infrastructure.runtimeconfig.json
+C:\Users\pravallika.chebrolu\source\repos\ExpenseTracker\ExpenseTracker.Infrastructure\bin\Debug\net8.0\ExpenseTracker.Infrastructure.dll
+C:\Users\pravallika.chebrolu\source\repos\ExpenseTracker\ExpenseTracker.Infrastructure\bin\Debug\net8.0\ExpenseTracker.Infrastructure.pdb
+C:\Users\pravallika.chebrolu\source\repos\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net8.0\ExpenseTracker.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\pravallika.chebrolu\source\repos\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net8.0\ExpenseTracker.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pravallika.chebrolu\source\repos\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net8.0\ExpenseTracker.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pravallika.chebrolu\source\repos\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net8.0\ExpenseTracker.Infrastructure.AssemblyInfo.cs
+C:\Users\pravallika.chebrolu\source\repos\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net8.0\ExpenseTracker.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pravallika.chebrolu\source\repos\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net8.0\ExpenseTracker.Infrastructure.dll
+C:\Users\pravallika.chebrolu\source\repos\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net8.0\refint\ExpenseTracker.Infrastructure.dll
+C:\Users\pravallika.chebrolu\source\repos\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net8.0\ExpenseTracker.Infrastructure.pdb
+C:\Users\pravallika.chebrolu\source\repos\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net8.0\ExpenseTracker.Infrastructure.genruntimeconfig.cache
+C:\Users\pravallika.chebrolu\source\repos\ExpenseTracker\ExpenseTracker.Infrastructure\obj\Debug\net8.0\ref\ExpenseTracker.Infrastructure.dll
